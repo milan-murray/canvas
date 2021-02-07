@@ -10,7 +10,7 @@
     -webkit-font-feature-settings: "liga" off, "calt" on;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
-    font-family: 'Arial', 'JetBrains Mono';
+    font-family: 'Arial', 'sans-serif', 'JetBrains Mono';
 }
 
 .code_block   {
@@ -22,5 +22,5 @@ p.indent {
 }
 
 #path_body  {
-    background-color: #ce3700;
+    background-color: #ee400d;
 }
